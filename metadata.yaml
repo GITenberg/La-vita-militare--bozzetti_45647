@@ -1,0 +1,32 @@
+_repo: La-vita-militare--bozzetti_45647
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45647-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmondo de
+    - Amichis, Edmondo de
+    - Amicis, Edmundo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_bookshelf: IT Psicologia e Sociologia
+gutenberg_issued: '2014-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45647'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italy -- Fiction'
+title: 'La vita militare: bozzetti'
+url: http://www.gutenberg.org/ebooks/45647
